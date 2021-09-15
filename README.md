@@ -1,2 +1,4 @@
 # KIRANKONGARA
 STARTING PROJECT
+hello world 
+java 
